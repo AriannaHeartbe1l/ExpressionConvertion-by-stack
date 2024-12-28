@@ -1,0 +1,111 @@
+﻿   Qt/MSBuild: 3.3.1.0
+   Qt: 6.9.0
+  uic Mystack.ui
+  moc Mystack.h
+  Mystack.cpp
+  main.cpp
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x2af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x2b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x133 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x2b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x134 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x2b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x135 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x2b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x137 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x2b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x138 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x2b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x13a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x140 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.cpp(1,1): warning C4828: 文件包含在偏移 0x4d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x133 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x134 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x135 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x137 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x138 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x13a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x140 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack.cpp”)
+  
+  moc_Mystack.cpp
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x133 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack/x64/Debug/qt/moc/moc_Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x134 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack/x64/Debug/qt/moc/moc_Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x135 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack/x64/Debug/qt/moc/moc_Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x137 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack/x64/Debug/qt/moc/moc_Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x138 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack/x64/Debug/qt/moc/moc_Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x13a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack/x64/Debug/qt/moc/moc_Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack/x64/Debug/qt/moc/moc_Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x140 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack/x64/Debug/qt/moc/moc_Mystack.cpp”)
+  
+D:\workroom\structure\Mystack\Mystack\Mystack.h(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“Mystack/x64/Debug/qt/moc/moc_Mystack.cpp”)
+  
+  Mystack.vcxproj -> D:\workroom\structure\Mystack\Mystack\x64\Debug\Mystack.exe

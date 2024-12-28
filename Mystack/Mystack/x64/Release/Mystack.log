@@ -1,0 +1,9 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.9.0
+  Mystack.cpp
+  正在生成代码
+  51 of 283 functions (18.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Mystack.vcxproj -> D:\workroom\structure\Mystack\Mystack\x64\Release\Mystack.exe
